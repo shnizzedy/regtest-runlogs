@@ -1,0 +1,8 @@
+reg-default_desc-smZstd_reho: 0.9981380695864572
+reg-defaultNoGSR_desc-zstd_reho: 0.9981332224448882
+space-template_reg-defaultNoGSR_desc-zstd_reho: 0.9967670312383775
+reg-default_desc-zstd_reho: 0.9981228290648374
+space-template_reg-default_desc-smZstd_reho: 0.9967771174245057
+reg-defaultNoGSR_desc-smZstd_reho: 0.9981420212034704
+space-template_reg-default_desc-zstd_reho: 0.9966718000574234
+space-template_reg-defaultNoGSR_desc-smZstd_reho: 0.9968645879860554

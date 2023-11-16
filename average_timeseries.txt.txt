@@ -1,0 +1,2 @@
+atlas-PNAS_reg-default_desc-SpatReg_timeseries.txt: 0.9954390986856156
+atlas-PNAS_reg-defaultNoGSR_desc-SpatReg_timeseries.txt: 0.9957597838091031

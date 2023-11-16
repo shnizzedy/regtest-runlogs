@@ -1,0 +1,11 @@
+reg-default_desc-preproc_bold: 0.9928113098308227
+space-template_reg-defaultNoGSR_desc-preproc_bold: 0.9909256673323295
+space-template_reg-defaultNoGSR_desc-sm_bold: 0.2875983474878655
+desc-motion_bold: 0.9999999794884651
+reg-defaultNoGSR_desc-sm4_bold: 0.9933959412631028
+reg-defaultNoGSR_desc-preproc_bold: 0.9933366637122054
+desc-brain_bold: 0.9999999909639098
+desc-mean_bold: 0.9999999999999999
+reg-default_desc-sm4_bold: 0.9928726549289966
+space-template_reg-default_desc-sm_bold: 0.2797158076785062
+space-template_reg-default_desc-preproc_bold: 0.9903699679968864

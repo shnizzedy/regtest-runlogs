@@ -1,0 +1,2 @@
+reg-default_vmhc: 0.20835494167794644
+reg-defaultNoGSR_vmhc: 0.21778028606151087

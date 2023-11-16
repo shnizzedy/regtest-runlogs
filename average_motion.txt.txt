@@ -1,0 +1,2 @@
+desc-motionParams_motion.txt: 0.9996864752703625
+desc-powerParams_motion.txt: 0.9999999997242144

@@ -1,0 +1,4 @@
+space-template_reg-defaultNoGSR_desc-zstd_ecw: 0.9786862967047338
+space-template_reg-defaultNoGSR_desc-smZstd_ecw: 0.9902483705169046
+space-template_reg-default_desc-zstd_ecw: 0.9806910475929116
+space-template_reg-default_desc-smZstd_ecw: 0.9912980303475348

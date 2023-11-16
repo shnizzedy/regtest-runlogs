@@ -1,0 +1,5 @@
+desc-FDPower_motion.1D: 0.9994009018616158
+desc-movementParameters_motion.1D: 0.999753811719977
+desc-maxDisplacement_motion.1D: 0.999705780165733
+desc-FDJenkinson_motion.1D: 0.9996641859539517
+desc-dvars_motion.1D: 0.9999999816319941

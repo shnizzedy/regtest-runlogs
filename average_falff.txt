@@ -1,0 +1,8 @@
+reg-default_desc-zstd_falff: 0.9941250248905305
+space-template_reg-defaultNoGSR_desc-smZstd_falff: 0.9928255220326025
+reg-default_desc-smZstd_falff: 0.9942773888414499
+reg-defaultNoGSR_desc-zstd_falff: 0.9944597038053138
+space-template_reg-default_desc-zstd_falff: 0.9921883281500881
+space-template_reg-defaultNoGSR_desc-zstd_falff: 0.9925774138152171
+reg-defaultNoGSR_desc-smZstd_falff: 0.9946093950753115
+space-template_reg-default_desc-smZstd_falff: 0.9924466666829472
