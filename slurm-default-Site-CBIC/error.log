@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/code/run.py", line 833, in <module>
+    raise exception
+  File "/code/run.py", line 827, in <module>
+    run_main()
+  File "/code/run.py", line 729, in run_main
+    sublogdirs = [set_subject(sub, c)[2] for sub in sub_list]
+  File "/code/run.py", line 729, in <listcomp>
+    sublogdirs = [set_subject(sub, c)[2] for sub in sub_list]
+  File "/code/CPAC/utils/configuration/configuration.py", line 758, in set_subject
+    os.makedirs(os.path.join(log_dir))
+  File "/usr/share/fsl/6.0/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/outputs/log/pipeline_default-5mm/sub-NDARAB348EWR_ses-1'
