@@ -1,0 +1,10 @@
+[shnizzedy/C-PAC_1ce15972aefda66bbd30dd39dee5a254b15dd574 (root-commit) 8a5ce93] Add logs for   1ce15972aefda66bbd30dd39dee5a254b15dd574
+ 8 files changed, 438 insertions(+)
+ create mode 100644 launch/build_image.sh.error.log
+ create mode 100644 launch/build_image.sh.out.log
+ create mode 100644 launch/build_slurm_testing_owner.sh.error.log
+ create mode 100644 launch/build_slurm_testing_owner.sh.out.log
+ create mode 100644 launch/launch_success.error.log
+ create mode 100644 launch/launch_success.out.log
+ create mode 100644 launch/regtest_lite.sh.error.log
+ create mode 100644 launch/regtest_lite.sh.out.log

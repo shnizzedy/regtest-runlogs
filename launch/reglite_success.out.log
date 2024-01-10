@@ -1,0 +1,28 @@
+On branch shnizzedy/C-PAC_1ce15972aefda66bbd30dd39dee5a254b15dd574
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   launch/launch_success.out.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	error.log
+	launch/delete_image.error.log
+	launch/delete_image.out.log
+	launch/reglite_success.error.log
+	launch/reglite_success.out.log
+	out.log
+	slurm-default-HNU_1-sub-0025428/
+	slurm-default-HNU_1-sub-0025429/
+	slurm-default-HNU_1-sub-0025448/
+	slurm-default-HNU_1-sub-0025452/
+	slurm-default-HNU_1-sub-0025453/
+	slurm-default-Site-CBIC-sub-NDARAA504CRN/
+	slurm-default-Site-CBIC-sub-NDARAA947ZG5/
+	slurm-default-Site-CBIC-sub-NDARAB348EWR/
+	slurm-default-Site-CBIC-sub-NDARAB458VK9/
+	slurm-default-Site-SI-sub-NDARAD481FXF/
+	slurm-default-Site-SI-sub-NDARAV894XWD/
+	slurm-default-Site-SI-sub-NDARCA186WGH/
+
+no changes added to commit (use "git add" and/or "git commit -a")

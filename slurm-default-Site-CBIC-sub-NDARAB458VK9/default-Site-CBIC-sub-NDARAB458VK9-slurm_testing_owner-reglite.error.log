@@ -1,0 +1,8 @@
++ export SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache
++ SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ singularity run --cleanenv -B /ocean/projects/med220004p/cmind -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC:/data -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack:/reg-data -B /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-CBIC:/outputs -B /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/pipeline_configs:/pipeline_configs /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAB458VK9-slurm_testing_owner.sif /data /outputs participant --save_working_dir --skip_bids_validator --pipeline_file /pipeline_configs/default-5mm.yml --participant_label sub-NDARAB458VK9 --n_cpus 10 --mem_gb 40
+/code/CPAC/utils/monitoring/draw_gantt_chart.py:105: Warning: 'Event logged twice or events started at exact same time!'
+  warn(str(KeyError(err_msg)), category=Warning)
++ grep -q 'CPAC run complete' /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB458VK9/default-Site-CBIC-sub-NDARAB458VK9-slurm_testing_owner-reglite.out.log
++ exit 0

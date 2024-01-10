@@ -1,0 +1,5 @@
+/var/spool/slurm/d/job21622608/slurm_script: line 14: /ocean/projects/med220004p/cmind/slurm_testing/.github/scripts/wait_for_git_lock.sh: No such file or directory
+/var/spool/slurm/d/job21622608/slurm_script: line 15: wait_for_git_lock: command not found
+fatal: pathspec 'slurm-default-Site-SI' did not match any files
+/var/spool/slurm/d/job21622608/slurm_script: line 17: wait_for_git_lock: command not found
+python3: can't open file '/ocean/projects/med220004p/cmind/C-PAC_slurm_testing/reg-suite/main.py': [Errno 2] No such file or directory

@@ -1,0 +1,4 @@
+/var/spool/slurm/d/job21622619/slurm_script: line 10: /ocean/projects/med220004p/cmind/slurm_testing/.github/scripts/wait_for_git_lock.sh: No such file or directory
+/var/spool/slurm/d/job21622619/slurm_script: line 11: wait_for_git_lock: command not found
+To github.com:shnizzedy/regtest-runlogs.git
+ + d7da773...8a5ce93 shnizzedy/C-PAC_1ce15972aefda66bbd30dd39dee5a254b15dd574 -> shnizzedy/C-PAC_1ce15972aefda66bbd30dd39dee5a254b15dd574 (forced update)

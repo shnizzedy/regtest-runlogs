@@ -1,0 +1,196 @@
++ export SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache
++ SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ singularity run --cleanenv -B /ocean/projects/med220004p/cmind -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC:/data -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack:/reg-data -B /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-CBIC:/outputs -B /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/pipeline_configs:/pipeline_configs /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAA947ZG5-slurm_testing_owner.sif /data /outputs participant --save_working_dir --skip_bids_validator --pipeline_file /pipeline_configs/default-5mm.yml --participant_label sub-NDARAA947ZG5 --n_cpus 10 --mem_gb 40
+exception calling callback for <Future at 0x14e331df4bb0 state=finished raised FileNotFoundError>
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 129, in validate
+    value = Path(value)  # Use pathlib's validation
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 960, in __new__
+    self = cls._from_parts(args)
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 594, in _from_parts
+    drv, root, parts = self._parse_args(args)
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 578, in _parse_args
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/code/CPAC/pipeline/nipype_pipeline_engine/engine.py", line 428, in run
+    return super().run(updatehash)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 497, in run
+    self._get_hashval()
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 548, in _get_hashval
+    self._get_inputs()
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 619, in _get_inputs
+    self.set_input(key, deepcopy(output_value))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 312, in set_input
+    setattr(self.inputs, parameter, deepcopy(val))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 330, in validate
+    value = super(File, self).validate(objekt, name, value, return_pathlike=True)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 131, in validate
+    self.error(objekt, name, str(value))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/traits/base_trait_handler.py", line 74, in error
+    raise TraitError(
+traits.trait_errors.TraitError: The 'in_file' trait of a RenameInputSpec instance must be a pathlike object or string representing an existing file, but a value of 'None' <class 'str'> was specified.
+
+Error setting node input:
+Node: nii_from-T1w_to-template_mode-image_desc-nonlinear_xfm_77
+input: in_file
+results_file: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/anat_mni_ants_register/select_forward_warp/result_select_forward_warp.pklz
+value: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 70, in run_node
+    result["result"] = node.result
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 223, in result
+    return _load_resultfile(
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/utils.py", line 291, in load_resultfile
+    raise FileNotFoundError(results_file)
+FileNotFoundError: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/nii_from-T1w_to-template_mode-image_desc-nonlinear_xfm_77/result_nii_from-T1w_to-template_mode-image_desc-nonlinear_xfm_77.pklz
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+FileNotFoundError: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/nii_from-T1w_to-template_mode-image_desc-nonlinear_xfm_77/result_nii_from-T1w_to-template_mode-image_desc-nonlinear_xfm_77.pklz
+exception calling callback for <Future at 0x14e331df5990 state=finished raised FileNotFoundError>
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 129, in validate
+    value = Path(value)  # Use pathlib's validation
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 960, in __new__
+    self = cls._from_parts(args)
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 594, in _from_parts
+    drv, root, parts = self._parse_args(args)
+  File "/usr/share/fsl/6.0/lib/python3.10/pathlib.py", line 578, in _parse_args
+    a = os.fspath(a)
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/code/CPAC/pipeline/nipype_pipeline_engine/engine.py", line 428, in run
+    return super().run(updatehash)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 497, in run
+    self._get_hashval()
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 548, in _get_hashval
+    self._get_inputs()
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 619, in _get_inputs
+    self.set_input(key, deepcopy(output_value))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 312, in set_input
+    setattr(self.inputs, parameter, deepcopy(val))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 330, in validate
+    value = super(File, self).validate(objekt, name, value, return_pathlike=True)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 131, in validate
+    self.error(objekt, name, str(value))
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/traits/base_trait_handler.py", line 74, in error
+    raise TraitError(
+traits.trait_errors.TraitError: The 'in_file' trait of a RenameInputSpec instance must be a pathlike object or string representing an existing file, but a value of 'None' <class 'str'> was specified.
+
+Error setting node input:
+Node: nii_from-template_to-T1w_mode-image_desc-nonlinear_xfm_78
+input: in_file
+results_file: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/anat_mni_ants_register/select_inverse_warp/result_select_inverse_warp.pklz
+value: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 70, in run_node
+    result["result"] = node.result
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 223, in result
+    return _load_resultfile(
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/utils.py", line 291, in load_resultfile
+    raise FileNotFoundError(results_file)
+FileNotFoundError: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/nii_from-template_to-T1w_mode-image_desc-nonlinear_xfm_78/result_nii_from-template_to-T1w_mode-image_desc-nonlinear_xfm_78.pklz
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+FileNotFoundError: /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/nii_from-template_to-T1w_mode-image_desc-nonlinear_xfm_78/result_nii_from-template_to-T1w_mode-image_desc-nonlinear_xfm_78.pklz
+Traceback (most recent call last):
+  File "/code/CPAC/pipeline/cpac_pipeline.py", line 574, in run_workflow
+    workflow_result = workflow.run(plugin=plugin,
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/workflows.py", line 638, in run
+    runner.run(execgraph, updatehash=updatehash, config=self.config)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/base.py", line 178, in run
+    self._clean_queue(jobid, graph, result=result)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/base.py", line 256, in _clean_queue
+    raise RuntimeError("".join(result["traceback"]))
+RuntimeError: Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/code/CPAC/pipeline/nipype_pipeline_engine/engine.py", line 428, in run
+    return super().run(updatehash)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 527, in run
+    result = self._run_interface(execute=True)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 645, in _run_interface
+    return self._run_command(execute)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 771, in _run_command
+    raise NodeExecutionError(msg)
+nipype.pipeline.engine.nodes.NodeExecutionError: Exception raised while executing Node write_composite_invlinear_xfm.
+
+Cmdline:
+	antsApplyTransforms --default-value 0 --dimensionality 3 --float 0 --input /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/resampled_T1w-brain-template/T1w-brain-template/MNI152_T1_5mm_brain_resample.nii.gz --input-image-type 0 --interpolation LanczosWindowedSinc --output [ from-template_to-T1w_mode-image_desc-linear_xfm.nii.gz, 1 ] --reference-image /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/brain_extraction_60/sub-NDARAA947ZG5_acq-VNavNorm_T1w_resample_calc.nii.gz --transform [ /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/anat_mni_ants_register/calc_ants_warp/transform0DerivedInitialMovingTranslation.mat, 1 ] --transform [ /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/anat_mni_ants_register/calc_ants_warp/transform1Rigid.mat, 1 ] --transform [ /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/anat_mni_ants_register/calc_ants_warp/transform2Affine.mat, 1 ]
+Stdout:
+
+Stderr:
+
+Traceback:
+	Traceback (most recent call last):
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 453, in aggregate_outputs
+	    setattr(outputs, key, val)
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 330, in validate
+	    value = super(File, self).validate(objekt, name, value, return_pathlike=True)
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/traits_extension.py", line 135, in validate
+	    self.error(objekt, name, str(value))
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/traits/base_trait_handler.py", line 74, in error
+	    raise TraitError(
+	traits.trait_errors.TraitError: The 'output_image' trait of an ApplyTransformsOutputSpec instance must be a pathlike object or string representing an existing file, but a value of '/outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/write_composite_invlinear_xfm/from-template_to-T1w_mode-image_desc-linear_xfm.nii.gz' <class 'str'> was specified.
+
+	During handling of the above exception, another exception occurred:
+
+	Traceback (most recent call last):
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 400, in run
+	    outputs = self.aggregate_outputs(runtime)
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 460, in aggregate_outputs
+	    raise FileNotFoundError(msg)
+	FileNotFoundError: No such file or directory '/outputs/working/pipeline_default-5mm/cpac_sub-NDARAA947ZG5_ses-1/ANTS_T1_to_template_66/write_composite_invlinear_xfm/from-template_to-T1w_mode-image_desc-linear_xfm.nii.gz' for output 'output_image' of a ApplyTransforms interface
+
+
+/code/CPAC/utils/monitoring/draw_gantt_chart.py:105: Warning: 'Event logged twice or events started at exact same time!'
+  warn(str(KeyError(err_msg)), category=Warning)
++ grep -q 'CPAC run complete' /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA947ZG5/default-Site-CBIC-sub-NDARAA947ZG5-slurm_testing_owner-reglite.out.log
++ exit 1

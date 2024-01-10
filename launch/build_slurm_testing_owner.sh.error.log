@@ -1,0 +1,111 @@
+INFO:    Environment variable SINGULARITY_CACHEDIR is set, but APPTAINER_CACHEDIR is preferred
+INFO:    Removing blob cache entry: blobs
+INFO:    Removing blob cache entry: index.json
+INFO:    Removing blob cache entry: oci-layout
+INFO:    No cached files to remove at /ocean/projects/med220004p/cmind/.singularity/cache/cache/library
+INFO:    No cached files to remove at /ocean/projects/med220004p/cmind/.singularity/cache/cache/oci-tmp
+INFO:    No cached files to remove at /ocean/projects/med220004p/cmind/.singularity/cache/cache/shub
+INFO:    No cached files to remove at /ocean/projects/med220004p/cmind/.singularity/cache/cache/oras
+INFO:    No cached files to remove at /ocean/projects/med220004p/cmind/.singularity/cache/cache/net
+INFO:    Environment variable SINGULARITY_CACHEDIR is set, but APPTAINER_CACHEDIR is preferred
+INFO:    Starting build...
+Getting image source signatures
+Copying blob sha256:170816573dbaf7412a7c85c1e23777dbab9104015b2beeddc9203e7ca964dff3
+Copying blob sha256:9d19ee268e0d7bcf6716e6658ee1b0384a71d6f2f9aa1ae2085610cf7c7b316f
+Copying blob sha256:255c4d0a7a145ca1ed2a4ccd12bd5680381a2e29a3b26c58b3527a9f992de3cd
+Copying blob sha256:ef3084125742d0581ee9ff82c21a6b489f43cf4e3e26117810ab2889ab6a4f00
+Copying blob sha256:f9ee1bf3076f23c0c8acdc198cad12b7da1546abc2a7a4e33e2766342714bf6b
+Copying blob sha256:0f1321fcfa793b7d739b03fc0d89858434cab1ac41dfd2b170fc21b3240aad3b
+Copying blob sha256:8a7144cacfe32cb42110ad67064602bb09a6242a4a9b8feb65cecde5f7318046
+Copying blob sha256:75f9b0554d63ca99d1c19ee43475c9c5d1c9b6ac2ae8911bbfec01699f734ea9
+Copying blob sha256:9978d053b4d68d5fbe5de4c7921098a84d892e5a96fb54f0f6d858f6be648608
+Copying blob sha256:c4c474019e694d2b7a4c7a88bbab287de6133fd70dbcbc0266a70b8d84d9f3e8
+Copying blob sha256:78d82c7d4c1f6cc3056fa64ea588c453282691d08f1e78e32e08372c14d21205
+Copying blob sha256:e219f2cb7344d07290f92e7229256bceec9651f4c94c9e7d19dd613f1d688bed
+Copying blob sha256:551423656857e5ebef2ff7dbccc0d6ede08b14d34f62bb89603f7cd220fae3e9
+Copying blob sha256:2f528bf252c545b8d68773599f528fe40a783461604cb78ffdc6eed4f41d67de
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:af3b70a2d0f494db841dd785d7eb05041fbe4ffc7f868bf282ee598e7d71865e
+Copying blob sha256:4871284b3fa6f480e8980921ed5328f357ee119af361e77515ffdfc5b30eef7a
+Copying blob sha256:077b23be17bd233a031c3c56de6589f5cfde47146b3183dad1fff70c00acec8f
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:4fe04287d73ee3be848910eb7233b48b670612043cc907b03a6a79abc88b9f9a
+Copying blob sha256:4580db2f94de135039ac38680044ca7630fef0a1a3fdc6f27b339cc6ef2ea22f
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:1328336fba458f660581e8aae88f451bac1ac85d43eb2e0129ed4e11966f3dac
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:b829a6de05c057967f5fed42b2ea90ea8a9d2a58239391523b9576f9e580e90b
+Copying blob sha256:bd0986efe3b7e2c80e09e15d82ecb60ec4aa1c95a614fa1c4d4842acee872d4a
+Copying blob sha256:9ead8adc9299d93f6214e9a94440d93361187c8646e6f1c8ff7d70f9d13d3eda
+Copying blob sha256:dbebc96bd315aa7a10cd18e65b90eb972d49b96ca385bec26a2cad4293c47590
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying blob sha256:693d82f7bb05fdf06c646ec28390a85ec339f91d84269ee6a832827de03537b9
+Copying blob sha256:7781158c7ee90638698f41b261ed63c5da5a43c5a854c7d82b401ffc66df7d95
+Copying blob sha256:a52de2a061a8358fa1681e5ada8b3cec131e52e936b44019729b9846eccf5710
+Copying blob sha256:a7c05e4c825a81901d486360f39401f9f9981042ad313677274e9d4812701b24
+Copying blob sha256:82805fa629dc5f3f5dae682a72f789642df43f7dd23d5d0a64f3e3991f1ea2d7
+Copying blob sha256:008588bfaee2e122f251be5276e3b4123e0696dcb5008dc28c24ec31f6f6a991
+Copying blob sha256:1929304f671cab983445909fca07e7adab302b69d48b4869eba226d7e63ed638
+Copying blob sha256:2545c864015dff6649fbad1f1ce54d4a0026607518cca5dd64b09da06cd939fe
+Copying blob sha256:996eeea10473b003678e2a6ff98c773684ff5f87e79218c6beacaf4a266ab0c8
+Copying blob sha256:748d514319fc60a7db0fb98466ad4e17047196340af0b48155c237b24e13d99e
+Copying blob sha256:f6206eee4684677dc321a43af77643bd5cbb4b54bb606cc7dade12d328611cbc
+Copying blob sha256:275f5674738121697c4822e8e9fb038b85247fae2c41a1bf1283f947f7d492b4
+Copying blob sha256:b7316d4be7b0cec5c50ae1a2924a1253dbcab90c52fd3023f8017d519f2c7271
+Copying blob sha256:28ae8a866d08aea2d4bb08a2d4c5cb3470be5aa888963a9c45d10a0f98db2c51
+Copying blob sha256:54baf2ddd1c80b7e7dfb05e48da5ed25e621fc6733719a45b33b51a36e40c25b
+Copying blob sha256:8de2b791aa3ac257ef76573a6d35a63894bd0585369f0889109a1b54490ba398
+Copying blob sha256:5e7b7570f770cda84db6404e6fd1ab8e33e7a0595ae041dbd9abb177628be248
+Copying blob sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+Copying config sha256:f9477365cc5d4fbc0f00be0a11a1920a9c7606072367918023caea5d4cb2f22c
+Writing manifest to image destination
+Storing signatures
+2024/01/10 13:40:11  info unpack layer: sha256:9d19ee268e0d7bcf6716e6658ee1b0384a71d6f2f9aa1ae2085610cf7c7b316f
+2024/01/10 13:40:12  info unpack layer: sha256:ef3084125742d0581ee9ff82c21a6b489f43cf4e3e26117810ab2889ab6a4f00
+2024/01/10 13:40:12  info unpack layer: sha256:255c4d0a7a145ca1ed2a4ccd12bd5680381a2e29a3b26c58b3527a9f992de3cd
+2024/01/10 13:40:12  info unpack layer: sha256:0f1321fcfa793b7d739b03fc0d89858434cab1ac41dfd2b170fc21b3240aad3b
+2024/01/10 13:40:12  info unpack layer: sha256:f9ee1bf3076f23c0c8acdc198cad12b7da1546abc2a7a4e33e2766342714bf6b
+2024/01/10 13:40:12  info unpack layer: sha256:170816573dbaf7412a7c85c1e23777dbab9104015b2beeddc9203e7ca964dff3
+2024/01/10 13:40:12  info unpack layer: sha256:8a7144cacfe32cb42110ad67064602bb09a6242a4a9b8feb65cecde5f7318046
+2024/01/10 13:40:17  info unpack layer: sha256:75f9b0554d63ca99d1c19ee43475c9c5d1c9b6ac2ae8911bbfec01699f734ea9
+2024/01/10 13:40:17  info unpack layer: sha256:9978d053b4d68d5fbe5de4c7921098a84d892e5a96fb54f0f6d858f6be648608
+2024/01/10 13:40:21  info unpack layer: sha256:c4c474019e694d2b7a4c7a88bbab287de6133fd70dbcbc0266a70b8d84d9f3e8
+2024/01/10 13:40:21  info unpack layer: sha256:78d82c7d4c1f6cc3056fa64ea588c453282691d08f1e78e32e08372c14d21205
+2024/01/10 13:40:21  info unpack layer: sha256:e219f2cb7344d07290f92e7229256bceec9651f4c94c9e7d19dd613f1d688bed
+2024/01/10 13:40:21  info unpack layer: sha256:551423656857e5ebef2ff7dbccc0d6ede08b14d34f62bb89603f7cd220fae3e9
+2024/01/10 13:40:21  info unpack layer: sha256:2f528bf252c545b8d68773599f528fe40a783461604cb78ffdc6eed4f41d67de
+2024/01/10 13:40:23  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2024/01/10 13:40:23  info unpack layer: sha256:af3b70a2d0f494db841dd785d7eb05041fbe4ffc7f868bf282ee598e7d71865e
+2024/01/10 13:40:23  info unpack layer: sha256:4871284b3fa6f480e8980921ed5328f357ee119af361e77515ffdfc5b30eef7a
+2024/01/10 13:40:23  info unpack layer: sha256:077b23be17bd233a031c3c56de6589f5cfde47146b3183dad1fff70c00acec8f
+2024/01/10 13:40:23  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2024/01/10 13:40:23  info unpack layer: sha256:4fe04287d73ee3be848910eb7233b48b670612043cc907b03a6a79abc88b9f9a
+2024/01/10 13:40:23  info unpack layer: sha256:4580db2f94de135039ac38680044ca7630fef0a1a3fdc6f27b339cc6ef2ea22f
+2024/01/10 13:40:23  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2024/01/10 13:40:23  info unpack layer: sha256:1328336fba458f660581e8aae88f451bac1ac85d43eb2e0129ed4e11966f3dac
+2024/01/10 13:40:24  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2024/01/10 13:40:24  info unpack layer: sha256:b829a6de05c057967f5fed42b2ea90ea8a9d2a58239391523b9576f9e580e90b
+2024/01/10 13:40:53  info unpack layer: sha256:bd0986efe3b7e2c80e09e15d82ecb60ec4aa1c95a614fa1c4d4842acee872d4a
+2024/01/10 13:40:53  info unpack layer: sha256:9ead8adc9299d93f6214e9a94440d93361187c8646e6f1c8ff7d70f9d13d3eda
+2024/01/10 13:41:03  info unpack layer: sha256:dbebc96bd315aa7a10cd18e65b90eb972d49b96ca385bec26a2cad4293c47590
+2024/01/10 13:41:04  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+2024/01/10 13:41:04  info unpack layer: sha256:693d82f7bb05fdf06c646ec28390a85ec339f91d84269ee6a832827de03537b9
+2024/01/10 13:41:10  info unpack layer: sha256:7781158c7ee90638698f41b261ed63c5da5a43c5a854c7d82b401ffc66df7d95
+2024/01/10 13:41:10  info unpack layer: sha256:a52de2a061a8358fa1681e5ada8b3cec131e52e936b44019729b9846eccf5710
+2024/01/10 13:41:11  info unpack layer: sha256:a7c05e4c825a81901d486360f39401f9f9981042ad313677274e9d4812701b24
+2024/01/10 13:41:27  info unpack layer: sha256:82805fa629dc5f3f5dae682a72f789642df43f7dd23d5d0a64f3e3991f1ea2d7
+2024/01/10 13:41:28  info unpack layer: sha256:008588bfaee2e122f251be5276e3b4123e0696dcb5008dc28c24ec31f6f6a991
+2024/01/10 13:41:28  info unpack layer: sha256:1929304f671cab983445909fca07e7adab302b69d48b4869eba226d7e63ed638
+2024/01/10 13:41:28  info unpack layer: sha256:2545c864015dff6649fbad1f1ce54d4a0026607518cca5dd64b09da06cd939fe
+2024/01/10 13:41:29  info unpack layer: sha256:996eeea10473b003678e2a6ff98c773684ff5f87e79218c6beacaf4a266ab0c8
+2024/01/10 13:41:36  info unpack layer: sha256:748d514319fc60a7db0fb98466ad4e17047196340af0b48155c237b24e13d99e
+2024/01/10 13:41:36  info unpack layer: sha256:f6206eee4684677dc321a43af77643bd5cbb4b54bb606cc7dade12d328611cbc
+2024/01/10 13:41:36  info unpack layer: sha256:275f5674738121697c4822e8e9fb038b85247fae2c41a1bf1283f947f7d492b4
+2024/01/10 13:41:36  info unpack layer: sha256:b7316d4be7b0cec5c50ae1a2924a1253dbcab90c52fd3023f8017d519f2c7271
+2024/01/10 13:41:37  info unpack layer: sha256:28ae8a866d08aea2d4bb08a2d4c5cb3470be5aa888963a9c45d10a0f98db2c51
+2024/01/10 13:41:37  info unpack layer: sha256:54baf2ddd1c80b7e7dfb05e48da5ed25e621fc6733719a45b33b51a36e40c25b
+2024/01/10 13:41:37  info unpack layer: sha256:8de2b791aa3ac257ef76573a6d35a63894bd0585369f0889109a1b54490ba398
+2024/01/10 13:41:37  info unpack layer: sha256:5e7b7570f770cda84db6404e6fd1ab8e33e7a0595ae041dbd9abb177628be248
+2024/01/10 13:41:37  info unpack layer: sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1
+INFO:    Creating SIF file...
+INFO:    Build complete: /ocean/projects/med220004p/cmind/slurm_testing_owner.sif

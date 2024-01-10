@@ -1,0 +1,252 @@
++ [[ 0 -gt 0 ]]
++ IMAGE_NAME=slurm_testing_owner
++ GIT_REPO=/ocean/projects/med220004p/cmind/C-PAC_slurm_testing
++ DATA_DIR=/ocean/projects/med220004p/cmind/DATA/reg_5mm_pack
++ OUT=/ocean/projects/med220004p/cmind/lite/slurm_testing_owner
++ IMAGE=slurm_testing_owner.sif
++ PIPELINE_CONFIGS=/ocean/projects/med220004p/cmind/C-PAC_slurm_testing/pipeline_configs
++ PRECONFIGS=default
++ DATA_SOURCE='Site-CBIC Site-SI HNU_1'
++ cd /ocean/projects/med220004p/cmind/C-PAC_slurm_testing
++ gh repo set-default ''
+expected the "[HOST/]OWNER/REPO" format, got ""
++ git fetch origin
++ git reset --hard origin/main
++ git checkout --force origin/main
+Note: switching to 'origin/main'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at bef5543 :necktie: Allow testing owner to be different from repo owner
++ FULL_SUCCESS_DEPENDENCIES=
++ pip install git+https://github.com/shnizzedy/dashboard@correlate_D3
+  Running command git clone --filter=blob:none --quiet https://github.com/shnizzedy/dashboard /tmp/pip-req-build-a1l3c3hd
+  Running command git checkout -b correlate_D3 --track origin/correlate_D3
+  Switched to a new branch 'correlate_D3'
+  branch 'correlate_D3' set up to track 'origin/correlate_D3'.
+  Running command git clone --filter=blob:none --quiet https://github.com/FCP-INDI/CPAC_regtest_pack.git /tmp/pip-install-ifi29o_8/cpac-correlations_43d77238713a4d1ebd1636c6354b5a3e
+  Running command git checkout -b package_correlations --track origin/package_correlations
+  Switched to a new branch 'package_correlations'
+  branch 'package_correlations' set up to track 'origin/package_correlations'.
++ for PIPELINE in ${PRECONFIGS}
++ for DATA in ${DATA_SOURCE}
++ DATAPATH=/ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC
++ OUTPUT=/ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-CBIC
++ REGLITE_JOBS=
++ '[' '!' -d /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-CBIC ']'
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC/sub-NDARAA504CRN
++ SUBJECT=sub-NDARAA504CRN
++ PDSD=default-Site-CBIC-sub-NDARAA504CRN
++ PDSU=default_Site-CBIC_sub-NDARAA504CRN
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAA504CRN.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA504CRN
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAA504CRN-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA504CRN/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA504CRN/%x.error.log reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAA504CRN.sh
++ REGLITE_JOB=21622598
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-CBIC-sub-NDARAA504CRN-slurm_testing_owner -F preconfig=default -F data_source=Site-CBIC
++ '[' -z '' ']'
++ REGLITE_JOBS=21622598
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC/sub-NDARAA947ZG5
++ SUBJECT=sub-NDARAA947ZG5
++ PDSD=default-Site-CBIC-sub-NDARAA947ZG5
++ PDSU=default_Site-CBIC_sub-NDARAA947ZG5
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAA947ZG5.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA947ZG5
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAA947ZG5-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA947ZG5/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA947ZG5/%x.error.log reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAA947ZG5.sh
++ REGLITE_JOB=21622599
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-CBIC-sub-NDARAA947ZG5-slurm_testing_owner -F preconfig=default -F data_source=Site-CBIC
++ '[' -z 21622598 ']'
++ REGLITE_JOBS+=:21622599
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC/sub-NDARAB348EWR
++ SUBJECT=sub-NDARAB348EWR
++ PDSD=default-Site-CBIC-sub-NDARAB348EWR
++ PDSU=default_Site-CBIC_sub-NDARAB348EWR
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAB348EWR.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB348EWR
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAB348EWR-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB348EWR/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB348EWR/%x.error.log reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAB348EWR.sh
++ REGLITE_JOB=21622600
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-CBIC-sub-NDARAB348EWR-slurm_testing_owner -F preconfig=default -F data_source=Site-CBIC
++ '[' -z 21622598:21622599 ']'
++ REGLITE_JOBS+=:21622600
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC/sub-NDARAB458VK9
++ SUBJECT=sub-NDARAB458VK9
++ PDSD=default-Site-CBIC-sub-NDARAB458VK9
++ PDSU=default_Site-CBIC_sub-NDARAB458VK9
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAB458VK9.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB458VK9
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAB458VK9-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB458VK9/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAB458VK9/%x.error.log reglite_slurm_testing_owner_default_Site-CBIC_sub-NDARAB458VK9.sh
++ REGLITE_JOB=21622601
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-CBIC-sub-NDARAB458VK9-slurm_testing_owner -F preconfig=default -F data_source=Site-CBIC
++ '[' -z 21622598:21622599:21622600 ']'
++ REGLITE_JOBS+=:21622601
++ '[' true = true ']'
+++ sbatch --parsable --dependency=afterok:21622598:21622599:21622600:21622601 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_success --export=COMPARISON_PATH=/ocean/projects/med220004p/cmind/v1.8.5,DATA=Site-CBIC,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/correlate_regtest_lite.SLURM
++ REGLITE_SUCCESS_JOB=21622602
+++ sbatch --parsable --dependency=afternotok:21622598:21622599:21622600:21622601 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_failure --export=DATA=Site-CBIC,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/failed_regtest_lite.SLURM
++ REGLITE_FAILURE_JOB=21622603
++ sbatch --dependency=afterany:21622598:21622599:21622600:21622601 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J delete_image '--wrap=rm "/ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAB458VK9-slurm_testing_owner.sif"'
++ '[' -z '' ']'
++ FULL_SUCCESS_DEPENDENCIES=21622598:21622599:21622600:21622601:21622602:21622603
++ for DATA in ${DATA_SOURCE}
++ DATAPATH=/ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-SI
++ OUTPUT=/ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-SI
++ REGLITE_JOBS=
++ '[' '!' -d /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-SI ']'
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-SI/sub-NDARAD481FXF
++ SUBJECT=sub-NDARAD481FXF
++ PDSD=default-Site-SI-sub-NDARAD481FXF
++ PDSU=default_Site-SI_sub-NDARAD481FXF
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-SI_sub-NDARAD481FXF.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAD481FXF
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-SI-sub-NDARAD481FXF-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAD481FXF/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAD481FXF/%x.error.log reglite_slurm_testing_owner_default_Site-SI_sub-NDARAD481FXF.sh
++ REGLITE_JOB=21622605
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-SI-sub-NDARAD481FXF-slurm_testing_owner -F preconfig=default -F data_source=Site-SI
++ '[' -z '' ']'
++ REGLITE_JOBS=21622605
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-SI/sub-NDARAV894XWD
++ SUBJECT=sub-NDARAV894XWD
++ PDSD=default-Site-SI-sub-NDARAV894XWD
++ PDSU=default_Site-SI_sub-NDARAV894XWD
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-SI_sub-NDARAV894XWD.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAV894XWD
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-SI-sub-NDARAV894XWD-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAV894XWD/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARAV894XWD/%x.error.log reglite_slurm_testing_owner_default_Site-SI_sub-NDARAV894XWD.sh
++ REGLITE_JOB=21622606
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-SI-sub-NDARAV894XWD-slurm_testing_owner -F preconfig=default -F data_source=Site-SI
++ '[' -z 21622605 ']'
++ REGLITE_JOBS+=:21622606
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-SI/sub-NDARCA186WGH
++ SUBJECT=sub-NDARCA186WGH
++ PDSD=default-Site-SI-sub-NDARCA186WGH
++ PDSU=default_Site-SI_sub-NDARCA186WGH
++ cat
++ chmod +x reglite_slurm_testing_owner_default_Site-SI_sub-NDARCA186WGH.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARCA186WGH
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-Site-SI-sub-NDARCA186WGH-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARCA186WGH/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-SI-sub-NDARCA186WGH/%x.error.log reglite_slurm_testing_owner_default_Site-SI_sub-NDARCA186WGH.sh
++ REGLITE_JOB=21622607
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-Site-SI-sub-NDARCA186WGH-slurm_testing_owner -F preconfig=default -F data_source=Site-SI
++ '[' -z 21622605:21622606 ']'
++ REGLITE_JOBS+=:21622607
++ '[' true = true ']'
+++ sbatch --parsable --dependency=afterok:21622605:21622606:21622607 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_success --export=COMPARISON_PATH=/ocean/projects/med220004p/cmind/v1.8.5,DATA=Site-SI,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/correlate_regtest_lite.SLURM
++ REGLITE_SUCCESS_JOB=21622608
+++ sbatch --parsable --dependency=afternotok:21622605:21622606:21622607 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_failure --export=DATA=Site-SI,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/failed_regtest_lite.SLURM
++ REGLITE_FAILURE_JOB=21622609
++ sbatch --dependency=afterany:21622605:21622606:21622607 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J delete_image '--wrap=rm "/ocean/projects/med220004p/cmind/default-Site-SI-sub-NDARCA186WGH-slurm_testing_owner.sif"'
++ '[' -z 21622598:21622599:21622600:21622601:21622602:21622603 ']'
++ FULL_SUCCESS_DEPENDENCIES+=:21622605:21622606:21622607:21622608:21622609
++ for DATA in ${DATA_SOURCE}
++ DATAPATH=/ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1
++ OUTPUT=/ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/HNU_1
++ REGLITE_JOBS=
++ '[' '!' -d /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/HNU_1 ']'
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1/sub-0025428
++ SUBJECT=sub-0025428
++ PDSD=default-HNU_1-sub-0025428
++ PDSU=default_HNU_1_sub-0025428
++ cat
++ chmod +x reglite_slurm_testing_owner_default_HNU_1_sub-0025428.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025428
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-HNU_1-sub-0025428-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025428/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025428/%x.error.log reglite_slurm_testing_owner_default_HNU_1_sub-0025428.sh
++ REGLITE_JOB=21622611
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-HNU_1-sub-0025428-slurm_testing_owner -F preconfig=default -F data_source=HNU_1
++ '[' -z '' ']'
++ REGLITE_JOBS=21622611
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1/sub-0025429
++ SUBJECT=sub-0025429
++ PDSD=default-HNU_1-sub-0025429
++ PDSU=default_HNU_1_sub-0025429
++ cat
++ chmod +x reglite_slurm_testing_owner_default_HNU_1_sub-0025429.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025429
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-HNU_1-sub-0025429-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025429/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025429/%x.error.log reglite_slurm_testing_owner_default_HNU_1_sub-0025429.sh
++ REGLITE_JOB=21622612
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-HNU_1-sub-0025429-slurm_testing_owner -F preconfig=default -F data_source=HNU_1
++ '[' -z 21622611 ']'
++ REGLITE_JOBS+=:21622612
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1/sub-0025448
++ SUBJECT=sub-0025448
++ PDSD=default-HNU_1-sub-0025448
++ PDSU=default_HNU_1_sub-0025448
++ cat
++ chmod +x reglite_slurm_testing_owner_default_HNU_1_sub-0025448.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025448
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-HNU_1-sub-0025448-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025448/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025448/%x.error.log reglite_slurm_testing_owner_default_HNU_1_sub-0025448.sh
++ REGLITE_JOB=21622613
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-HNU_1-sub-0025448-slurm_testing_owner -F preconfig=default -F data_source=HNU_1
++ '[' -z 21622611:21622612 ']'
++ REGLITE_JOBS+=:21622613
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1/sub-0025452
++ SUBJECT=sub-0025452
++ PDSD=default-HNU_1-sub-0025452
++ PDSU=default_HNU_1_sub-0025452
++ cat
++ chmod +x reglite_slurm_testing_owner_default_HNU_1_sub-0025452.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025452
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-HNU_1-sub-0025452-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025452/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025452/%x.error.log reglite_slurm_testing_owner_default_HNU_1_sub-0025452.sh
++ REGLITE_JOB=21622614
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-HNU_1-sub-0025452-slurm_testing_owner -F preconfig=default -F data_source=HNU_1
++ '[' -z 21622611:21622612:21622613 ']'
++ REGLITE_JOBS+=:21622614
++ for SUBJECT_PATH in "${DATAPATH}"/sub-*
+++ basename /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/HNU_1/sub-0025453
++ SUBJECT=sub-0025453
++ PDSD=default-HNU_1-sub-0025453
++ PDSU=default_HNU_1_sub-0025453
++ cat
++ chmod +x reglite_slurm_testing_owner_default_HNU_1_sub-0025453.sh
++ mkdir -p /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025453
++ cp -fl /ocean/projects/med220004p/cmind/slurm_testing_owner.sif /ocean/projects/med220004p/cmind/default-HNU_1-sub-0025453-slurm_testing_owner.sif
+++ sbatch --parsable --export=OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025453/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-HNU_1-sub-0025453/%x.error.log reglite_slurm_testing_owner_default_HNU_1_sub-0025453.sh
++ REGLITE_JOB=21622615
++ gh workflow run 'Initiate check' -F task=run -F ref=1ce15972aefda66bbd30dd39dee5a254b15dd574 -F repo=shnizzedy/C-PAC -F owner=shnizzedy -F job=default-HNU_1-sub-0025453-slurm_testing_owner -F preconfig=default -F data_source=HNU_1
++ '[' -z 21622611:21622612:21622613:21622614 ']'
++ REGLITE_JOBS+=:21622615
++ '[' true = true ']'
+++ sbatch --parsable --dependency=afterok:21622611:21622612:21622613:21622614:21622615 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_success --export=COMPARISON_PATH=/ocean/projects/med220004p/cmind/v1.8.5,DATA=HNU_1,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/correlate_regtest_lite.SLURM
++ REGLITE_SUCCESS_JOB=21622616
+++ sbatch --parsable --dependency=afternotok:21622611:21622612:21622613:21622614:21622615 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J reglite_failure --export=DATA=HNU_1,HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PIPELINE=default,PUSH_LOGS=true,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574 .github/scripts/failed_regtest_lite.SLURM
++ REGLITE_FAILURE_JOB=21622617
++ sbatch --dependency=afterany:21622611:21622612:21622613:21622614:21622615 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J delete_image '--wrap=rm "/ocean/projects/med220004p/cmind/default-HNU_1-sub-0025453-slurm_testing_owner.sif"'
++ '[' -z 21622598:21622599:21622600:21622601:21622602:21622603:21622605:21622606:21622607:21622608:21622609 ']'
++ FULL_SUCCESS_DEPENDENCIES+=:21622611:21622612:21622613:21622614:21622615:21622616:21622617
++ sbatch --dependency=afterany:21622598:21622599:21622600:21622601:21622602:21622603:21622605:21622606:21622607:21622608:21622609:21622611:21622612:21622613:21622614:21622615:21622616:21622617 --output=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/launch/%x.error.log -J delete_image_and_push_logs --export=HOME_DIR=/ocean/projects/med220004p/cmind,IMAGE=slurm_testing_owner.sif,REPO=shnizzedy/C-PAC,SHA=1ce15972aefda66bbd30dd39dee5a254b15dd574,_WD= .github/scripts/push_to_github.SLURM

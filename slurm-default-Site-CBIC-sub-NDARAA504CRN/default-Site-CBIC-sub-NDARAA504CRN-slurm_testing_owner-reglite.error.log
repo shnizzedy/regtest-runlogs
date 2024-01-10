@@ -1,0 +1,45 @@
++ export SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache
++ SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ singularity run --cleanenv -B /ocean/projects/med220004p/cmind -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-CBIC:/data -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack:/reg-data -B /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-CBIC:/outputs -B /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/pipeline_configs:/pipeline_configs /ocean/projects/med220004p/cmind/default-Site-CBIC-sub-NDARAA504CRN-slurm_testing_owner.sif /data /outputs participant --save_working_dir --skip_bids_validator --pipeline_file /pipeline_configs/default-5mm.yml --participant_label sub-NDARAA504CRN --n_cpus 10 --mem_gb 40
+/code/CPAC/nuisance/nuisance.py:287: UserWarning: loadtxt: input contained no data: "/outputs/working/pipeline_default-5mm/cpac_sub-NDARAA504CRN_ses-1/nuisance_regressors_defaultNoGSR_204/_scan_movieTP/CerebrospinalFluid_mean/sub-NDARAA504CRN_task-movieTP_bold_resample_calc_tshift_0_volreg_tcat_calc_maths_flirt_roistat.1D"
+  regressors = np.loadtxt(regressor_file)
+/code/CPAC/nuisance/nuisance.py:287: UserWarning: loadtxt: input contained no data: "/outputs/working/pipeline_default-5mm/cpac_sub-NDARAA504CRN_ses-1/nuisance_regressors_default_204/_scan_movieTP/CerebrospinalFluid_mean/sub-NDARAA504CRN_task-movieTP_bold_resample_calc_tshift_0_volreg_tcat_calc_maths_flirt_roistat.1D"
+  regressors = np.loadtxt(regressor_file)
+Traceback (most recent call last):
+  File "/code/CPAC/pipeline/cpac_pipeline.py", line 574, in run_workflow
+    workflow_result = workflow.run(plugin=plugin,
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/workflows.py", line 638, in run
+    runner.run(execgraph, updatehash=updatehash, config=self.config)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/base.py", line 178, in run
+    self._clean_queue(jobid, graph, result=result)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/base.py", line 256, in _clean_queue
+    raise RuntimeError("".join(result["traceback"]))
+RuntimeError: Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 67, in run_node
+    result["result"] = node.run(updatehash=updatehash)
+  File "/code/CPAC/pipeline/nipype_pipeline_engine/engine.py", line 428, in run
+    return super().run(updatehash)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 527, in run
+    result = self._run_interface(execute=True)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 645, in _run_interface
+    return self._run_command(execute)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/engine/nodes.py", line 771, in _run_command
+    raise NodeExecutionError(msg)
+nipype.pipeline.engine.nodes.NodeExecutionError: Exception raised while executing Node build_nuisance_regressors.
+
+Traceback:
+	Traceback (most recent call last):
+	  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/interfaces/base/core.py", line 397, in run
+	    runtime = self._run_interface(runtime)
+	  File "/code/CPAC/utils/interfaces/function/function.py", line 216, in _run_interface
+	    out = function_handle(**args)
+	  File "/code/CPAC/nuisance/nuisance.py", line 294, in gather_nuisance
+	    raise ValueError("Number of time points in {0} ({1}) is "
+	ValueError: Number of time points in /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA504CRN_ses-1/nuisance_regressors_default_204/_scan_movieTP/CerebrospinalFluid_mean/sub-NDARAA504CRN_task-movieTP_bold_resample_calc_tshift_0_volreg_tcat_calc_maths_flirt_roistat.1D (0) is inconsistent with length of functional file /outputs/working/pipeline_default-5mm/cpac_sub-NDARAA504CRN_ses-1/_scan_movieTP/func_normalize_149/sub-NDARAA504CRN_task-movieTP_bold_resample_calc_tshift_0_volreg_tcat_calc_maths.nii.gz (250)
+
+
+/code/CPAC/utils/monitoring/draw_gantt_chart.py:105: Warning: 'Event logged twice or events started at exact same time!'
+  warn(str(KeyError(err_msg)), category=Warning)
++ grep -q 'CPAC run complete' /ocean/projects/med220004p/cmind/logs/1ce15972aefda66bbd30dd39dee5a254b15dd574/slurm-default-Site-CBIC-sub-NDARAA504CRN/default-Site-CBIC-sub-NDARAA504CRN-slurm_testing_owner-reglite.out.log
++ exit 1
