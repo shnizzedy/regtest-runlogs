@@ -1,0 +1,10 @@
+[C-PAC_7bb93d765cc20bea9c3e08661134a10387c2df7f (root-commit) 7541a02] Add logs for   7bb93d765cc20bea9c3e08661134a10387c2df7f
+ 8 files changed, 441 insertions(+)
+ create mode 100644 launch/build_image.sh.error.log
+ create mode 100644 launch/build_image.sh.out.log
+ create mode 100644 launch/build_slurm_testing_owner.sh.error.log
+ create mode 100644 launch/build_slurm_testing_owner.sh.out.log
+ create mode 100644 launch/launch_success.error.log
+ create mode 100644 launch/launch_success.out.log
+ create mode 100644 launch/regtest_lite.sh.error.log
+ create mode 100644 launch/regtest_lite.sh.out.log

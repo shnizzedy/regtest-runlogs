@@ -1,0 +1,3 @@
+This will delete everything in your cache (containers from all sources and OCI blobs). 
+Hint: You can see exactly what would be deleted by canceling and using the --dry-run option.
+Do you want to continue? [N/y] 

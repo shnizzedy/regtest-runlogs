@@ -1,0 +1,36 @@
++ export PUSH_LOGS=true
++ PUSH_LOGS=true
++ export _WD=/ocean/projects/med220004p/cmind
++ _WD=/ocean/projects/med220004p/cmind
++ mkdir -p /ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch
++ cd /ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f
++ [[ true == true ]]
++ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
++ git remote add origin git@github.com:shnizzedy/regtest-runlogs.git
++ git switch -c C-PAC_7bb93d765cc20bea9c3e08661134a10387c2df7f
+Switched to a new branch 'C-PAC_7bb93d765cc20bea9c3e08661134a10387c2df7f'
++ cd /ocean/projects/med220004p/cmind
++ PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin
++ GH_AVAILABLE=true
++ cd /ocean/projects/med220004p/cmind/C-PAC_slurm_testing
++ gh repo set-default shnizzedy/slurm_testing
+++ sbatch --parsable --export=image=ghcr.io/shnizzedy/c-pac:slurm_testing_owner,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,SHA=7bb93d765cc20bea9c3e08661134a10387c2df7f,working_dir=/ocean/projects/med220004p/cmind --output=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.error.log /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/regression_run_scripts/build_image.sh
++ BUILD_SLURM_JOB=21627917
+++ sbatch --parsable --dependency=afterok:21627917 --export=COMPARISON_PATH=/ocean/projects/med220004p/cmind/v1.8.5,GH_AVAILABLE=true,HOME_DIR=/ocean/projects/med220004p/cmind,IMAGE=ghcr.io/shnizzedy/c-pac:slurm_testing_owner,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PUSH_LOGS=true,REPO=C-PAC,SHA=7bb93d765cc20bea9c3e08661134a10387c2df7f --output=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.error.log /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/regression_run_scripts/regtest_lite.sh
++ LAUNCH_SLURM_JOB=21627918
++ '[' true = true ']'
+++ sbatch --parsable --dependency=afterok:21627918 --output=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.error.log -J launch_success --export=HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PUSH_LOGS=true,REPO=C-PAC,SHA=7bb93d765cc20bea9c3e08661134a10387c2df7f,STATUS=success .github/scripts/status_regtest_lite.SLURM
++ LAUNCH_SUCCESS_JOB=21627919
+++ sbatch --parsable --output=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.out.log --error=/ocean/projects/med220004p/cmind/logs/7bb93d765cc20bea9c3e08661134a10387c2df7f/launch/%x.error.log '--dependency=afternotok:21627917?afternotok:21627918' -J launch_failure --export=HOME_DIR=/ocean/projects/med220004p/cmind,OWNER=shnizzedy,PATH=/ocean/projects/med220004p/cmind/miniconda3/bin:/ocean/projects/med220004p/cmind/miniconda3/condabin:/jet/home/cmind/.local/bin:/jet/home/cmind/bin:/ocean/projects/med220004p/cmind/miniconda3/bin:/opt/packages/psc.allocations.user/bin:/opt/packages/allocations/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/ocean/projects/med220004p/cmind/opt/gh_2.32.0_linux_amd64/bin,PUSH_LOGS=true,REPO=C-PAC,SHA=7bb93d765cc20bea9c3e08661134a10387c2df7f,STATUS=failure .github/scripts/status_regtest_lite.SLURM
++ LAUNCH_FAILURE_JOB=21627920
++ sbatch --dependency=afterok:21627920 -J push_logs --export=HOME_DIR=/ocean/projects/med220004p/cmind,IMAGE=ghcr.io/shnizzedy/c-pac:slurm_testing_owner,REPO=C-PAC,SHA=7bb93d765cc20bea9c3e08661134a10387c2df7f,_WD=/ocean/projects/med220004p/cmind .github/scripts/push_to_github.SLURM

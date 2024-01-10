@@ -1,0 +1,224 @@
++ export SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ SINGULARITY_CACHEDIR=/ocean/projects/med220004p/cmind/.singularity/cache
++ SINGULARITY_LOCALCACHEDIR=/ocean/projects/med220004p/cmind/.singularity/tmp
++ singularity run --cleanenv -B /ocean/projects/med220004p/cmind -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack/data/Site-SI:/data -B /ocean/projects/med220004p/cmind/DATA/reg_5mm_pack:/reg-data -B /ocean/projects/med220004p/cmind/lite/slurm_testing_owner/default/Site-SI:/outputs -B /ocean/projects/med220004p/cmind/C-PAC_slurm_testing/pipeline_configs:/pipeline_configs /ocean/projects/med220004p/cmind/default-Site-SI-sub-NDARAV894XWD-slurm_testing_owner.sif /data /outputs participant --save_working_dir --skip_bids_validator --pipeline_file /pipeline_configs/default-5mm.yml --participant_label sub-NDARAV894XWD --n_cpus 10 --mem_gb 40
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_0.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_1.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_2.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_3.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_4.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_5.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_6.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_7.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_8.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_9.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_10.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_11.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_12.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_13.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_14.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_15.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_16.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_17.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_18.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_19.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_20.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_21.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_22.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_23.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_24.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_25.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_26.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_27.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_28.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_29.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_30.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_31.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_32.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_33.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_34.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_35.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_36.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_37.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_38.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_39.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_40.nii.gz
+++ 3dcalc: AFNI version=AFNI_23.1.10 (Jul 28 2023) [64-bit]
+++ Authored by: A cast of thousands
+++ Output dataset /outputs/working/pipeline_default-5mm/cpac_sub-NDARAV894XWD_ses-1/_scan_rest/split_151/sub-NDARAV894XWD_task-rest_bold_resample_calc_tshift_41.nii.gz
+exception calling callback for <Future at 0x146342dad180 state=finished raised BrokenProcessPool>
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+exception calling callback for <Future at 0x146342dae380 state=finished raised BrokenProcessPool>
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+exception calling callback for <Future at 0x146342dad000 state=finished raised BrokenProcessPool>
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+exception calling callback for <Future at 0x146346b38a90 state=finished raised BrokenProcessPool>
+Traceback (most recent call last):
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 342, in _invoke_callbacks
+    callback(self)
+  File "/usr/share/fsl/6.0/lib/python3.10/site-packages/nipype/pipeline/plugins/multiproc.py", line 159, in _async_callback
+    result = args.result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/share/fsl/6.0/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+slurmstepd: error: *** JOB 21628080 ON r229 CANCELLED AT 2024-01-11T03:11:46 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=21628080.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
