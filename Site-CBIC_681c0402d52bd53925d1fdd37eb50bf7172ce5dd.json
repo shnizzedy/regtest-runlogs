@@ -1,0 +1,307 @@
+[
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "Site-CBIC",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999999"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999994"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999994"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "Site-CBIC",
+            "value": "0.9999999999999994"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-movementParameters_motion.1D",
+            "columnid": "Site-CBIC",
+            "value": "1.0"
+        },
+            ]

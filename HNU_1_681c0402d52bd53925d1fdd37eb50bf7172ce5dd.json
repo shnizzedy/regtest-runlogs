@@ -1,0 +1,1429 @@
+[
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-GM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999855"
+        },
+            
+        {
+            "rowid": "label-CSF_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999956"
+        },
+            
+        {
+            "rowid": "label-GM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "0.999999999999989"
+        },
+            
+        {
+            "rowid": "label-WM_desc-preproc_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000018"
+        },
+            
+        {
+            "rowid": "space-template_label-WM_mask",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999998"
+        },
+            
+        {
+            "rowid": "space-template_desc-brain_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-template_label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "label-CSF_mask",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000075"
+        },
+            
+        {
+            "rowid": "space-template_res-5mm_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-bold_mask",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "space-template_desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-preproc_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "space-template_desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-brain_T1w",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000064"
+        },
+            
+        {
+            "rowid": "desc-head_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "desc-reorient_T1w",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999944"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999964"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.000000000000004"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999964"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.000000000000004"
+        },
+            
+        {
+            "rowid": "label-GM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000038"
+        },
+            
+        {
+            "rowid": "label-CSF_probseg",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999964"
+        },
+            
+        {
+            "rowid": "label-WM_probseg",
+            "columnid": "HNU_1",
+            "value": "1.000000000000004"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999989"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999997"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999989"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999997"
+        },
+            
+        {
+            "rowid": "desc-brain_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999989"
+        },
+            
+        {
+            "rowid": "desc-mean_bold",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "desc-motion_bold",
+            "columnid": "HNU_1",
+            "value": "0.9999999999999997"
+        },
+            
+        {
+            "rowid": "dvars.1D",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "space-template_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-T1w_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000016"
+        },
+            
+        {
+            "rowid": "space-template_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-T1w_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000016"
+        },
+            
+        {
+            "rowid": "space-template_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000002"
+        },
+            
+        {
+            "rowid": "space-T1w_sbref",
+            "columnid": "HNU_1",
+            "value": "1.0000000000000016"
+        },
+            
+        {
+            "rowid": "desc-movementParameters_motion.1D",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-summary_motion.tsv",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "motion.tsv",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "desc-summary_motion.tsv",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            
+        {
+            "rowid": "motion.tsv",
+            "columnid": "HNU_1",
+            "value": "1.0"
+        },
+            ]
