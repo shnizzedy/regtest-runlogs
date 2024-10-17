@@ -1,0 +1,6 @@
+space-template_desc-preproc_T1w: 1.0
+desc-preproc_T1w: 1.0000000000000064
+space-template_desc-head_T1w: 1.0
+desc-brain_T1w: 1.0000000000000064
+desc-head_T1w: 0.9999999999999947
+desc-reorient_T1w: 0.9999999999999947

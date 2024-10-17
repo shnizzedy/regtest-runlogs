@@ -1,0 +1,4 @@
+desc-head_T1w: 1.0
+desc-brain_T1w: 1.0
+desc-reorient_T1w: 1.0
+desc-preproc_T1w: 1.0

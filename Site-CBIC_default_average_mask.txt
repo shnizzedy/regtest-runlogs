@@ -1,0 +1,4 @@
+label-GM_mask: 1.0000000000000002
+label-CSF_mask: 0.9999999999999999
+label-WM_mask: 1.0
+desc-brain_mask: 1.0

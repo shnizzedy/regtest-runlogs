@@ -1,0 +1,3 @@
+desc-motion_bold: 0.9999999999999999
+desc-mean_bold: 1.0
+desc-brain_bold: 0.9999999999999997

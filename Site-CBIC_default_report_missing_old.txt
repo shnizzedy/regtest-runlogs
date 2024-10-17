@@ -1,0 +1,1297 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-GM_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-head_T1w.nii.gz
+
+desc-brain_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-brain_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-brain_T1w.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-CSF_mask.nii.gz
+
+desc-reorient_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-reorient_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-reorient_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-reorient_T1w.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-WM_mask.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-WM_probseg.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-brain_mask.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-preproc_T1w.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-CSF_probseg.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-GM_probseg.nii.gz
+
+desc-motion_bold:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-motion_bold.nii.gz
+
+desc-mean_bold:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-mean_bold.nii.gz
+
+desc-brain_bold:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-brain_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-brain_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-brain_bold.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/lite/2380cd53177311c2a62a850d1121ce8df907d4db/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-movementParameters_motion.1D
+
+These outputs are in pipeline_2, and missing in pipeline_1 or were not picked up by this script's file parsing:
+
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+space-template_desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_desc-brain_mask.nii.gz
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+space-template_desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_desc-head_T1w.nii.gz
+
+space-template_desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_space-template_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_desc-preproc_T1w.nii.gz
+
+space-template_label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_label-GM_mask.nii.gz
+
+space-template_label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_label-CSF_mask.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_desc-preproc_mask.nii.gz
+
+space-template_label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_space-template_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-template_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-template_label-WM_mask.nii.gz
+
+space-T1w_sbref:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-T1w_sbref.nii.gz
+
+space-template_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_space-template_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-template_desc-bold_mask.nii.gz
+
+sbref:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_sbref.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-summary_motion.tsv
+
+space-template_sbref:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_space-template_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-template_sbref.nii.gz
+
+motion.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_motion.tsv
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_motion.tsv
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_motion.tsv
+
+space-template_res-5mm_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_space-template_res-5mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_res-5mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-template_res-5mm_desc-bold_mask.nii.gz
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+space-template_reg-defaultNoGSR_desc-zstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_falff.nii.gz
+
+atlas-MICCAI_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Brodmann_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Talairach_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+reg-default_desc-zstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-zstd_reho.nii.gz
+
+atlas-aal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-ho_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-CC400_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Desikan_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-MICCAI_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-CC200_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-tt_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Talairach_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Desikan_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Desikan_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-default_desc-Mean_timeseries.1D
+
+space-template_reg-default_desc-zstd_lfcdb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_lfcdb.nii.gz
+
+atlas-Talairach_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Juelich_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Juelich_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-CC200_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-aal_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+reg-default_vmhc:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_vmhc.nii.gz
+
+atlas-Glasser_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-smZstd_lfcdw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_lfcdw.nii.gz
+
+reg-defaultNoGSR_desc-boldSnr_quality.txt:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-boldSnr_quality.txt
+
+space-template_reg-default_desc-zstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_alff.nii.gz
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Yeo7_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-default_desc-Mean_timeseries.1D
+
+space-template_reg-defaultNoGSR_desc-zstd_lfcdb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_lfcdb.nii.gz
+
+atlas-ho_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Brodmann_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Desikan_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+space-template_reg-default_desc-preproc_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-preproc_bold.nii.gz
+
+space-template_reg-defaultNoGSR_desc-zstd_lfcdw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_lfcdw.nii.gz
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-CC400_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-DKT_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-aal_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Brodmann_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-DKT_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Slab907_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-CAPRSC_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-tt_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-MICCAI_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Slab907_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-default_desc-ndmg_correlations.csv
+
+space-template_reg-default_desc-zstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_reho.nii.gz
+
+reg-default_desc-preproc_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-preproc_bold.nii.gz
+
+atlas-MICCAI_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-PNAS_reg-defaultNoGSR_desc-SpatReg_timeseries.txt:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-PNAS_reg-defaultNoGSR_desc-SpatReg_timeseries.txt
+
+atlas-Desikan_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Yeo17_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-CC200_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Brodmann_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+space-template_reg-default_desc-smZstd_ecw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_ecw.nii.gz
+
+atlas-Yeo17_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-default_desc-ndmg_correlations.csv
+
+reg-defaultNoGSR_desc-zstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-zstd_falff.nii.gz
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+space-template_reg-default_desc-smZstd_dcb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_dcb.nii.gz
+
+atlas-Yeo7Liberal_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-aal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-CC200_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-tt_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-zstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_reho.nii.gz
+
+space-template_reg-defaultNoGSR_desc-zstd_dcb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_dcb.nii.gz
+
+atlas-AAL_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-default_desc-sm_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-sm_bold.nii.gz
+
+atlas-tt_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Juelich_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-rois_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Yeo7Liberal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-aal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-rois_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-DKT_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-AAL_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-tt_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-ho_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Juelich_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+reg-default_desc-confounds_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-confounds_timeseries.1D
+
+atlas-DesikanKlein_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-DKT_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Glasser_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-smZstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_alff.nii.gz
+
+reg-default_desc-smZstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-smZstd_alff.nii.gz
+
+atlas-MICCAI_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+reg-defaultNoGSR_desc-sm4_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-sm4_bold.nii.gz
+
+atlas-Brodmann_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-ho_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+space-template_reg-defaultNoGSR_desc-zstd_dcw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_dcw.nii.gz
+
+atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Yeo17Liberal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Slab907_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-smZstd_ecw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_ecw.nii.gz
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-aal_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-MICCAI_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Glasser_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-rois_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Yeo7_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-zstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_alff.nii.gz
+
+atlas-Juelich_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-sm_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-sm_bold.nii.gz
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-tt_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-aal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-CC200_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Slab907_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Brodmann_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+space-template_reg-default_desc-smZstd_lfcdb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_lfcdb.nii.gz
+
+space-template_reg-defaultNoGSR_desc-smZstd_lfcdb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_lfcdb.nii.gz
+
+atlas-Glasser_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+reg-defaultNoGSR_desc-confounds_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-confounds_timeseries.1D
+
+atlas-MICCAI_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-default_desc-ndmg_correlations.csv
+
+space-template_reg-defaultNoGSR_desc-smZstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_reho.nii.gz
+
+atlas-Desikan_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-CC400_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-CC400_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+reg-defaultNoGSR_desc-preproc_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-preproc_bold.nii.gz
+
+atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Talairach_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-PNAS_reg-default_desc-SpatReg_timeseries.txt:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-PNAS_reg-default_desc-SpatReg_timeseries.txt
+
+atlas-aal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-aal_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Slab907_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-CC400_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-CC200_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-tt_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-ho_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Juelich_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+reg-defaultNoGSR_desc-smZstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-smZstd_falff.nii.gz
+
+space-template_reg-default_desc-zstd_dcb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_dcb.nii.gz
+
+atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Yeo17Liberal_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-tt_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-tt_space-template_reg-default_desc-ndmg_correlations.csv
+
+space-template_reg-defaultNoGSR_desc-smZstd_dcw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_dcw.nii.gz
+
+space-template_reg-default_desc-zstd_dcw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_dcw.nii.gz
+
+atlas-CAPRSC_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+reg-default_desc-smZstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-smZstd_falff.nii.gz
+
+atlas-Yeo17_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-DesikanKlein_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo7_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Slab907_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-AAL_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-default_desc-Mean_timeseries.1D
+
+space-template_reg-defaultNoGSR_desc-smZstd_dcb:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_dcb.nii.gz
+
+atlas-DKT_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Glasser_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-ho_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-default_desc-smZstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_reho.nii.gz
+
+atlas-Juelich_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Brodmann_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Yeo7_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Desikan_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-AAL_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Talairach_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-CC200_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-defaultNoGSR_desc-preproc_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-preproc_bold.nii.gz
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-CC400_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-default_desc-ndmg_correlations.csv
+
+reg-defaultNoGSR_desc-zstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-zstd_alff.nii.gz
+
+atlas-Slab907_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Talairach_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-MICCAI_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-MICCAI_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+reg-defaultNoGSR_desc-smZstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-smZstd_reho.nii.gz
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo7_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Talairach_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-DKT_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+space-template_reg-defaultNoGSR_desc-smZstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-smZstd_falff.nii.gz
+
+space-template_reg-default_desc-zstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_falff.nii.gz
+
+atlas-Desikan_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+reg-defaultNoGSR_vmhc:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_vmhc.nii.gz
+
+atlas-Yeo7Liberal_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17Liberal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-Juelich_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Juelich_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-DKT_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Yeo17_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Brodmann_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-rois_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+reg-defaultNoGSR_desc-zstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-zstd_reho.nii.gz
+
+space-template_reg-default_desc-zstd_ecw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_ecw.nii.gz
+
+space-template_reg-default_desc-zstd_lfcdw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-zstd_lfcdw.nii.gz
+
+atlas-Yeo17_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo17_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-default_desc-smZstd_lfcdw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_lfcdw.nii.gz
+
+atlas-AAL_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Yeo7_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-CC200_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC200_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-CC400_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-CAPRSC_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-default_desc-Mean_timeseries.1D
+
+space-template_reg-defaultNoGSR_desc-zstd_ecw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-defaultNoGSR_desc-zstd_ecw.nii.gz
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Yeo7Liberal_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-AAL_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-CC400_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CC400_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+reg-default_desc-sm4_bold:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-sm4_bold.nii.gz
+
+atlas-Glasser_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-Glasser_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-rois_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-rois_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-rois_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+space-template_reg-default_desc-smZstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_falff.nii.gz
+
+atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018200Parcels17NetworksOrder_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordsubMaxprobThr25_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-ho_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-default_desc-ndmg_correlations.csv
+
+reg-default_desc-smZstd_reho:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-smZstd_reho.nii.gz
+
+atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018400Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+space-template_reg-default_desc-smZstd_dcw:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_dcw.nii.gz
+
+atlas-ho_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-ho_space-template_reg-defaultNoGSR_desc-PearsonNilearn_correlations.tsv
+
+atlas-DesikanKlein_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Glasser_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Glasser_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+reg-default_desc-zstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-zstd_alff.nii.gz
+
+reg-defaultNoGSR_desc-smZstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-defaultNoGSR_desc-smZstd_alff.nii.gz
+
+space-template_reg-default_desc-smZstd_alff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-template_reg-default_desc-smZstd_alff.nii.gz
+
+atlas-AAL_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-defaultNoGSR_desc-Mean_timeseries.1D
+
+atlas-Yeo7_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-DesikanKlein_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DesikanKlein_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Yeo7_space-template_reg-default_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7_space-template_reg-default_desc-ndmg_correlations.csv
+
+atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer20181000Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-DKT_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Talairach_space-template_reg-default_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Talairach_space-template_reg-default_desc-PartialNilearn_correlations.tsv
+
+atlas-AAL_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+atlas-CAPRSC_space-template_reg-default_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CAPRSC_space-template_reg-default_desc-PearsonNilearn_correlations.tsv
+
+atlas-Slab907_space-template_reg-default_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Slab907_space-template_reg-default_desc-Mean_timeseries.1D
+
+atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Yeo7Liberal_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+reg-default_desc-boldSnr_quality.txt:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-boldSnr_quality.txt
+
+atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Schaefer2018300Parcels17NetworksOrder_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
+
+reg-default_desc-zstd_falff:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-default_desc-zstd_falff.nii.gz
+
+atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HarvardOxfordcortMaxprobThr25_space-template_reg-defaultNoGSR_desc-PartialNilearn_correlations.tsv
+
+atlas-rois_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med220004p/cmind/lite/v1.8.7/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-template_reg-defaultNoGSR_desc-ndmg_correlations.csv
