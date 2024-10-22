@@ -1,0 +1,3 @@
+label-WM_probseg: 0.9999999999999998
+label-CSF_probseg: 0.9999999999999999
+label-GM_probseg: 1.0

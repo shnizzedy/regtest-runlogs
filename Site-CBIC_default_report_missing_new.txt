@@ -1,0 +1,108 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-head_T1w.nii.gz
+
+desc-brain_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-brain_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-brain_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-brain_T1w.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_mask.nii.gz
+
+desc-reorient_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-reorient_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-reorient_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-reorient_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-reorient_T1w.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_mask.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_probseg.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-brain_mask.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-preproc_T1w.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_probseg.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/anat/sub-NDARAA504CRN_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/anat/sub-NDARAA947ZG5_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_probseg.nii.gz
+
+desc-motion_bold:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-motion_bold.nii.gz
+
+desc-mean_bold:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-mean_bold.nii.gz
+
+desc-brain_bold:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-brain_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-brain_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-brain_bold.nii.gz
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-brain_bold.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA504CRN/ses-1/func/sub-NDARAA504CRN_ses-1_task-movieTP_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAA947ZG5/ses-1/func/sub-NDARAA947ZG5_ses-1_task-movieTP_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/lite/134544899be0b84e5f09c4fcf585683890a2c088/default/Site-CBIC/output/pipeline_default-5mm/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-movementParameters_motion.1D
