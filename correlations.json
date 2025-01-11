@@ -3998,5 +3998,1005 @@
     "rowid": "desc-movementParameters_motion.1D",
     "columnid": "3481",
     "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "00254481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "0.9999999999999685"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "0.9999999999999862"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000209"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000109"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000209"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000109"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999948"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254481",
+    "value": "0.999999999999978"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999948"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254481",
+    "value": "0.999999999999978"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "00254531",
+    "value": "1.000000000000001"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "00254481",
+    "value": "0.9999999999999988"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "00254481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "00254531",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "00254481",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "0.9999999999999685"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "0.9999999999999862"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000209"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000109"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000209"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254531",
+    "value": "1.0000000000000109"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999949"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254481",
+    "value": "0.9999999999999779"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999949"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254481",
+    "value": "0.9999999999999779"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "00254531",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "00254481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "00254531",
+    "value": "1.0000000000000013"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "00254481",
+    "value": "0.9999999999999988"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "00254531",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "00254481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "45891",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "45891",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "5041",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "94751",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "45891",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "5041",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "3481",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "94751",
+    "value": "0.9999999999999996"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "45891",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "45891",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "3481",
+    "value": "0.9999999999999996"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "45891",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "5041",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "3481",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "45891",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "5041",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "94751",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "45891",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "5041",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "3481",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_bold",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_bold",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "3481",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "5041",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-brain_T1w",
+    "columnid": "45891",
+    "value": "0.9999999999999994"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "5041",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "3481",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "94751",
+    "value": "0.9999999999999996"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "3481",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-reorient_T1w",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "3481",
+    "value": "0.9999999999999994"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "45891",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "5041",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "45891",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "5041",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "45891",
+    "value": "0.9999999999999994"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "94751",
+    "value": "1.0"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "5041",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-motion_bold",
+    "columnid": "3481",
+    "value": "0.9999999999999994"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "94751",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-brain_bold",
+    "columnid": "5041",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-brain_bold",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "3481",
+    "value": "1.0000000000000002"
   }
 ]
