@@ -1,0 +1,112 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-GM_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_desc-head_T1w.nii.gz
+
+space-MNI152NLin6ASym_label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-WM_mask.nii.gz
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-WM_desc-preproc_mask.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-GM_probseg.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-CSF_desc-preproc_mask.nii.gz
+
+space-MNI152NLin6ASym_label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-CSF_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+
+space-MNI152NLin6ASym_desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_desc-preproc_T1w.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-WM_probseg.nii.gz
+
+space-MNI152NLin6ASym_desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+
+space-MNI152NLin6ASym_label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-CSF_probseg.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_label-GM_desc-preproc_mask.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/anat/sub-032167_ses-001_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_desc-brain_mask.nii.gz
+
+sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_sbref.nii.gz
+
+motion.tsv:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_motion.tsv
+
+space-MNI152NLin6ASym_res-3mm_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+
+desc-mean_bold:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_desc-mean_bold.nii.gz
+
+space-T1w_sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_space-T1w_sbref.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_desc-summary_motion.tsv
+
+space-MNI152NLin6ASym_sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_desc-movementParameters_motion.1D
+
+space-MNI152NLin6ASym_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/oxford/output/pipeline_cpac-default-pipeline/sub-032167/ses-001/func/sub-032167_ses-001_task-resting_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz

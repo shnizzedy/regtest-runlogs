@@ -1,0 +1,13 @@
+label-GM_mask: 0.9999999999999912
+space-MNI152NLin6ASym_label-WM_mask: 0.9999999999999997
+label-WM_mask: 1.0000000000000038
+label-WM_desc-preproc_mask: 0.9999999999999957
+label-CSF_desc-preproc_mask: 0.9999999999999736
+space-MNI152NLin6ASym_label-GM_mask: 1.0000000000000004
+label-CSF_mask: 1.0000000000000107
+space-MNI152NLin6ASym_desc-brain_mask: 1.0
+space-MNI152NLin6ASym_label-CSF_mask: 0.9999999999999984
+label-GM_desc-preproc_mask: 1.0000000000000024
+desc-brain_mask: 1.000000000000004
+space-MNI152NLin6ASym_res-3mm_desc-bold_mask: 0.9999999999999998
+space-MNI152NLin6ASym_desc-bold_mask: 0.9999999999999998

@@ -1,0 +1,11 @@
+label-WM_desc-preproc_mask: 1.000000000000013
+label-CSF_mask: 1.0000000000000164
+label-CSF_desc-preproc_mask: 1.0000000000000198
+label-WM_mask: 0.9999999999999992
+space-MNI152NLin6ASym_desc-brain_mask: 0.9999999999999997
+space-MNI152NLin6ASym_label-CSF_mask: 1.0000000000000002
+label-GM_mask: 1.0000000000000062
+space-MNI152NLin6ASym_label-WM_mask: 1.0
+label-GM_desc-preproc_mask: 0.999999999999998
+desc-brain_mask: 1.0000000000000004
+space-MNI152NLin6ASym_label-GM_mask: 1.0

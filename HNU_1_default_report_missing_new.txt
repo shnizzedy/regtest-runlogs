@@ -1,0 +1,224 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+space-MNI152NLin6ASym_desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+
+space-MNI152NLin6ASym_label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+
+space-MNI152NLin6ASym_label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+
+label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-GM_mask.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-CSF_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-GM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-GM_probseg.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-WM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-WM_mask.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-CSF_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-CSF_probseg.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_desc-preproc_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_desc-preproc_T1w.nii.gz
+
+space-MNI152NLin6ASym_label-GM_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-brain_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-GM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-GM_desc-preproc_mask.nii.gz
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-WM_desc-preproc_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_desc-head_T1w.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_desc-head_T1w.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-WM_probseg.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-WM_probseg.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/anat/sub-0025453_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/anat/sub-0025429_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/anat/sub-0025452_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/anat/sub-0025428_ses-1_label-CSF_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/anat/sub-0025448_ses-1_label-CSF_mask.nii.gz
+
+space-MNI152NLin6ASym_sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-movementParameters_motion.1D
+
+desc-mean_bold:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_desc-summary_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_desc-summary_motion.tsv
+
+sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_sbref.nii.gz
+
+space-T1w_sbref:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-T1w_sbref.nii.gz
+
+motion.tsv:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_motion.tsv
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_motion.tsv
+
+space-MNI152NLin6ASym_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+
+space-MNI152NLin6ASym_res-3mm_desc-bold_mask:
+
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025453/ses-1/func/sub-0025453_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025429/ses-1/func/sub-0025429_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025452/ses-1/func/sub-0025452_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025428/ses-1/func/sub-0025428_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med220004p/cmind/automatic_tests/full/v1.8.7/default/HNU_1/output/pipeline_cpac-default-pipeline/sub-0025448/ses-1/func/sub-0025448_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz

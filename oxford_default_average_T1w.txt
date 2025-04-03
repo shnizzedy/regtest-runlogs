@@ -1,0 +1,4 @@
+desc-head_T1w: 0.9999999999999997
+space-MNI152NLin6ASym_desc-preproc_T1w: 0.9999999999999984
+desc-preproc_T1w: 0.9999999999999948
+space-MNI152NLin6ASym_desc-head_T1w: 0.9999999999999984
