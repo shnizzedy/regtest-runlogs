@@ -1,0 +1,2 @@
+atlas-PNAS_reg-defaultNoGSR_desc-SpatReg2_timeseries.txt: nan
+atlas-PNAS_reg-default_desc-SpatReg1_timeseries.txt: nan

@@ -1,0 +1,5 @@
+desc-mean_bold: 1.0000000000000002
+reg-default_desc-preproc1_bold: nan
+reg-defaultNoGSR_desc-preproc2_bold: nan
+space-MNI152NLin6ASym_reg-default_desc-preproc1_bold: nan
+space-MNI152NLin6ASym_reg-defaultNoGSR_desc-preproc2_bold: nan

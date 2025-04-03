@@ -1,0 +1,8 @@
+space-MNI152NLin6ASym_reg-default_desc-smZstd1_reho: nan
+space-MNI152NLin6ASym_reg-defaultNoGSR_desc-zstd2_reho: nan
+space-MNI152NLin6ASym_reg-defaultNoGSR_desc-smZstd2_reho: nan
+reg-default_desc-zstd1_reho: nan
+space-MNI152NLin6ASym_reg-default_desc-zstd1_reho: nan
+reg-default_desc-smZstd1_reho: nan
+reg-defaultNoGSR_desc-smZstd2_reho: nan
+reg-defaultNoGSR_desc-zstd2_reho: nan

@@ -1,0 +1,8 @@
+space-MNI152NLin6ASym_reg-default_desc-smZstd1_alff: 1.0
+space-MNI152NLin6ASym_reg-defaultNoGSR_desc-smZstd2_alff: 1.0
+reg-default_desc-zstd1_alff: 0.9999999999999998
+space-MNI152NLin6ASym_reg-defaultNoGSR_desc-zstd2_alff: 0.9999999999999998
+reg-defaultNoGSR_desc-zstd2_alff: 1.0
+reg-default_desc-smZstd1_alff: 1.0
+space-MNI152NLin6ASym_reg-default_desc-zstd1_alff: 1.0
+reg-defaultNoGSR_desc-smZstd2_alff: 0.9999999999999998
