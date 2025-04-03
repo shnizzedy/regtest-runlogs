@@ -1,285 +1,5 @@
 [
   {
-    "rowid": "label-GM_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999912"
-  },
-  {
-    "rowid": "desc-head_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-WM_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "label-WM_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000038"
-  },
-  {
-    "rowid": "label-WM_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999957"
-  },
-  {
-    "rowid": "label-GM_probseg",
-    "columnid": "032167001",
-    "value": "1.000000000000021"
-  },
-  {
-    "rowid": "label-CSF_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999736"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-GM_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000004"
-  },
-  {
-    "rowid": "label-CSF_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000107"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-preproc_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999984"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.0"
-  },
-  {
-    "rowid": "desc-preproc_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999948"
-  },
-  {
-    "rowid": "label-WM_probseg",
-    "columnid": "032167001",
-    "value": "0.9999999999999891"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-head_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999984"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-CSF_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999984"
-  },
-  {
-    "rowid": "label-CSF_probseg",
-    "columnid": "032167001",
-    "value": "0.9999999999999992"
-  },
-  {
-    "rowid": "label-GM_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000024"
-  },
-  {
-    "rowid": "desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.000000000000008"
-  },
-  {
-    "rowid": "desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000002"
-  },
-  {
-    "rowid": "sbref",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "motion.tsv",
-    "columnid": "032167001",
-    "value": "1.0"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_res-3mm_desc-bold_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "desc-mean_bold",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "space-T1w_sbref",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "desc-summary_motion.tsv",
-    "columnid": "032167001",
-    "value": "1.0"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_sbref",
-    "columnid": "032167001",
-    "value": "1.0000000000000002"
-  },
-  {
-    "rowid": "desc-movementParameters_motion.1D",
-    "columnid": "032167001",
-    "value": "1.0"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-bold_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "label-GM_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999912"
-  },
-  {
-    "rowid": "desc-head_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-WM_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "label-WM_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000038"
-  },
-  {
-    "rowid": "label-WM_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999956"
-  },
-  {
-    "rowid": "label-GM_probseg",
-    "columnid": "032167001",
-    "value": "1.000000000000021"
-  },
-  {
-    "rowid": "label-CSF_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999736"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-GM_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000002"
-  },
-  {
-    "rowid": "label-CSF_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000107"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-preproc_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999987"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000002"
-  },
-  {
-    "rowid": "desc-preproc_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999946"
-  },
-  {
-    "rowid": "label-WM_probseg",
-    "columnid": "032167001",
-    "value": "0.9999999999999893"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-head_T1w",
-    "columnid": "032167001",
-    "value": "0.9999999999999987"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_label-CSF_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999987"
-  },
-  {
-    "rowid": "label-CSF_probseg",
-    "columnid": "032167001",
-    "value": "0.9999999999999991"
-  },
-  {
-    "rowid": "label-GM_desc-preproc_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000024"
-  },
-  {
-    "rowid": "desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.000000000000008"
-  },
-  {
-    "rowid": "desc-brain_mask",
-    "columnid": "032167001",
-    "value": "1.0000000000000002"
-  },
-  {
-    "rowid": "sbref",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "motion.tsv",
-    "columnid": "032167001",
-    "value": "0.9999999999999999"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_res-3mm_desc-bold_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999996"
-  },
-  {
-    "rowid": "desc-mean_bold",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "space-T1w_sbref",
-    "columnid": "032167001",
-    "value": "0.9999999999999997"
-  },
-  {
-    "rowid": "desc-summary_motion.tsv",
-    "columnid": "032167001",
-    "value": "0.9999999999999998"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_sbref",
-    "columnid": "032167001",
-    "value": "1.0000000000000004"
-  },
-  {
-    "rowid": "desc-movementParameters_motion.1D",
-    "columnid": "032167001",
-    "value": "1.0"
-  },
-  {
-    "rowid": "space-MNI152NLin6ASym_desc-bold_mask",
-    "columnid": "032167001",
-    "value": "0.9999999999999996"
-  },
-  {
     "rowid": "label-WM_desc-preproc_mask",
     "columnid": "1861",
     "value": "1.0000000000000375"
@@ -918,5 +638,412 @@
     "rowid": "desc-movementParameters_motion.1D",
     "columnid": "1861",
     "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999912"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-WM_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000038"
+  },
+  {
+    "rowid": "label-WM_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999957"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "032167001",
+    "value": "1.000000000000021"
+  },
+  {
+    "rowid": "label-CSF_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999736"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-GM_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000107"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-preproc_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999984"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999948"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "032167001",
+    "value": "0.9999999999999891"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-head_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999984"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-CSF_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999984"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "032167001",
+    "value": "0.9999999999999992"
+  },
+  {
+    "rowid": "label-GM_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000024"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.000000000000008"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "motion.tsv",
+    "columnid": "032167001",
+    "value": "1.0"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_res-3mm_desc-bold_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "desc-summary_motion.tsv",
+    "columnid": "032167001",
+    "value": "1.0"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_sbref",
+    "columnid": "032167001",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "032167001",
+    "value": "1.0"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-bold_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "label-GM_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999912"
+  },
+  {
+    "rowid": "desc-head_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-WM_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "label-WM_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000038"
+  },
+  {
+    "rowid": "label-WM_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999956"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "032167001",
+    "value": "1.000000000000021"
+  },
+  {
+    "rowid": "label-CSF_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999736"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-GM_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "label-CSF_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000107"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-preproc_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999987"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999946"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "032167001",
+    "value": "0.9999999999999893"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-head_T1w",
+    "columnid": "032167001",
+    "value": "0.9999999999999987"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_label-CSF_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999987"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "032167001",
+    "value": "0.9999999999999991"
+  },
+  {
+    "rowid": "label-GM_desc-preproc_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000024"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.000000000000008"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "032167001",
+    "value": "1.0000000000000002"
+  },
+  {
+    "rowid": "sbref",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "motion.tsv",
+    "columnid": "032167001",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_res-3mm_desc-bold_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999996"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "space-T1w_sbref",
+    "columnid": "032167001",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-summary_motion.tsv",
+    "columnid": "032167001",
+    "value": "0.9999999999999998"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_sbref",
+    "columnid": "032167001",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "032167001",
+    "value": "1.0"
+  },
+  {
+    "rowid": "space-MNI152NLin6ASym_desc-bold_mask",
+    "columnid": "032167001",
+    "value": "0.9999999999999996"
+  }
+]": "1.0000000000000047"
+  },
+  {
+    "rowid": "label-WM_probseg",
+    "columnid": "45891",
+    "value": "0.9999999999999968"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "5041",
+    "value": "0.9999999999999827"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "3481",
+    "value": "0.9999999999999749"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "94751",
+    "value": "0.9999999999999695"
+  },
+  {
+    "rowid": "desc-brain_mask",
+    "columnid": "45891",
+    "value": "1.0000000000000235"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "5041",
+    "value": "1.0000000000000095"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "3481",
+    "value": "1.000000000000003"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "94751",
+    "value": "0.9999999999999892"
+  },
+  {
+    "rowid": "desc-preproc_T1w",
+    "columnid": "45891",
+    "value": "1.0000000000000335"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "5041",
+    "value": "0.9999999999999852"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "3481",
+    "value": "1.0000000000000107"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "94751",
+    "value": "0.9999999999999896"
+  },
+  {
+    "rowid": "label-CSF_probseg",
+    "columnid": "45891",
+    "value": "1.000000000000027"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "5041",
+    "value": "1.0000000000000004"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "3481",
+    "value": "0.9999999999999639"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "94751",
+    "value": "1.0000000000000007"
+  },
+  {
+    "rowid": "label-GM_probseg",
+    "columnid": "45891",
+    "value": "1.000000000000009"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "5041",
+    "value": "0.9999999999999997"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "3481",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "94751",
+    "value": "0.9999999999999993"
+  },
+  {
+    "rowid": "desc-mean_bold",
+    "columnid": "45891",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "5041",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "3481",
+    "value": "0.9999999999999999"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "94751",
+    "value": "1.0"
+  },
+  {
+    "rowid": "desc-movementParameters_motion.1D",
+    "columnid": "45891",
+    "value": "1.0000000000000002"
   }
 ]
